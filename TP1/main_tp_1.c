@@ -25,7 +25,7 @@ int main()
     double moy = 0, v ;
 
     /* insert the values to table and check the values */
-    printf("this program calculate variance and Moyenne and search min value and max value in table  \n");
+    printf("ok ok ok ok ok this program calculate variance and Moyenne and search min value and max value in table  \n");
     do{
         printf("enter value %d :", i);
         scanf("%d", &x);
